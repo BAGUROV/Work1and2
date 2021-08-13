@@ -1,0 +1,9 @@
+C:\Users\79035\source\repos\MathG\MathG\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\79035\source\repos\MathG\MathG\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\79035\source\repos\MathG\MathG\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\79035\source\repos\MathG\MathG\obj\Debug\netcoreapp3.1\MathG.csprojAssemblyReference.cache
+C:\Users\79035\source\repos\MathG\MathG\obj\Debug\netcoreapp3.1\MathG.AssemblyInfoInputs.cache
+C:\Users\79035\source\repos\MathG\MathG\obj\Debug\netcoreapp3.1\MathG.AssemblyInfo.cs
+C:\Users\79035\source\repos\MathG\MathG\obj\Debug\netcoreapp3.1\MathG.csproj.CoreCompileInputs.cache
+C:\Users\79035\source\repos\MathG\MathG\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\79035\source\repos\MathG\MathG\obj\Debug\netcoreapp3.1\Math.pdb
